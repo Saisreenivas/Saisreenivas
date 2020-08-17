@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- 🌱 &nbsp; Quick Learner.
 - 🔭 &nbsp; Developing Websites and Android Applications.
 - 🤔 &nbsp; Exploring new technologies.
 
