@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing Websites and Android Applications.
+- 🔭 &nbsp; Developing Websites and Android Applications.
+- 🤔 &nbsp; Exploring new technologies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
